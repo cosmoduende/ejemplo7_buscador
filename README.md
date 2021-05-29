@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Parte 1 de ejercicio integral de React - Curso KMMX
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
